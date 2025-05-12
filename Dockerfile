@@ -1,1 +1,1 @@
-FROM thingsboard/tb:3.6.4
+FROM thingsboard/tb-postgres
